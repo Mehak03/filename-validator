@@ -9,6 +9,8 @@ Have Maven installed and available on your PATH or IDE
 #Assumptions
 1. Currently the program has been built for a specific file format : Test_<portfoliocode>_<ddmmyyyy>_<2digit-sequencenumber>.csv where protfoliocode can be A/B/C and sequence number is 2 digit.
 
+The program has been written implementating Chain of Responsibility pattern.
+
 #Verify Installation
 
 Open a command prompt & run mvn clean install
